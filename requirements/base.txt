@@ -1,7 +1,7 @@
 psycopg2==2.4.5
 BeautifulSoup==3.2.1
-Django==1.4.11
-Mezzanine==1.4.1
+Django==3.2.15
+Mezzanine==4.3.0
 South==0.7.6
 django_compressor==1.2
 django-appconf==0.5
