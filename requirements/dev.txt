@@ -3,10 +3,11 @@ django-debug-toolbar==0.9.4
 fabric==1.4.3
 ssh==1.7.14
 pycrypto==2.6.0
-Jinja2==2.6
+Jinja2==2.11.3
 argyle==0.2.1
 Sphinx==1.1.3
 # Testing
 coverage==3.5.1
 pylint==0.25.1
 mock==1.0.1
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
